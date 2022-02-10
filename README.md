@@ -26,9 +26,9 @@ The first 5 columns correspond to the inputs u<sub>t</sub>:
 The last 8 columns correspond to the outputs y<sub>t</sub>:
 
 - Particle Numbers
-- HC
 - CO
 - CO2
+- HC
 - Nox
 - O2
 - Temperatue (Exhaus Manifold)
