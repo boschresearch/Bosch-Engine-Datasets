@@ -10,7 +10,7 @@ Each measurement is saved as a separate csv-file.
 The data is standardized to mean-zero and unit-variance on the training data set.
 
 ## Dataset 1
-The dataset _gengine1_ contains in total _66_ measurements.
+The dataset _gengine1_ contains in total _33_ measurements.
 We used the measurements _[10,11,12,13,14,15,16,17,18,19,30,31,32,33,34,35,36,37,38,39]_
 for training and the measurements _[53,54,55,56,57,58,59,60,61,62,63,64,65]_ for
 testing.
