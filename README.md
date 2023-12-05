@@ -57,8 +57,8 @@ The last 5 columns correspond to the outputs y<sub>t</sub>:
 - Temperature (Catalyst 1)
 
 
-## engines_transfer_learning_problem
-In the folder _./engines_transfer_learning_problem_, we provide two datasets _engines_transfer_learning_problem/engine1.xlsx_ and _engines_transfer_learning_problem/engine2.xlsx_.
+## pengines
+In the folder _./pengines_, we provide two datasets _pengines/engine1.xlsx_ and _pengines/engine2.xlsx_.
 These two files are measurements of the same system under different conditions.
 Each dataset consists of _N_ measurements of data pair (**x**<sub>n</sub>, **y**<sub>n</sub>).
 Each column is standardized to zero-mean and unit-variance.
@@ -78,8 +78,8 @@ The last 7 columns correspond to the outputs **y**<sub>n</sub>:
 - specific_fuel_consumption
 - temperature_exhaust_manifold
 - temperature_in_catalyst
-- engine_roughness_v
-- engine_roughness_s
+- engine_roughness_v (variance of indicated cylinder pressure)
+- engine_roughness_s (standard deviation of indicated cylinder pressure, we mainly use this one)
 - HC
 - NOx
 
