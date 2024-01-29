@@ -83,6 +83,8 @@ The last 7 columns correspond to the outputs **y**<sub>n</sub>:
 - HC
 - NOx
 
-
+# Contact Persons
+Barbara Rakitsch: barbara.rakitsch@de.bosch.com
+Cen-You Li: cen-you.li@de.bosch.com
 
 
